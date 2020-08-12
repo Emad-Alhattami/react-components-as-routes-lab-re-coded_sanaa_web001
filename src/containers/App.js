@@ -21,5 +21,4 @@ const App = (props) => {
     </Router>
   );
 };
-
 export default App

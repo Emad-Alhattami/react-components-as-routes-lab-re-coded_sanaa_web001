@@ -9,11 +9,10 @@ import Actors from '../components/Actors';
 import Directors from '../components/Directors';
 import Movies from '../components/Movies';
 
-
 const App = (props) => {
   return (
     <Router>
-      {/*{code here}*/}
+     <div className="app"> </div>
     </Router>
   );
 };
